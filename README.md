@@ -32,7 +32,7 @@ PROJECT FILE: IMDB Movie Sentiment Analysis.ipynb
 
 
 ## CONTEXT: 
-The audience for movies and TV shows has become somewhat of a landmine when it comes to casting.
+Sentiment analysis for movie reviews from IMDB. 
 
 We will be performing an unsupervised sentiment analysis using vector similarity and then comparing it against a supervised model accuracy. This notebook's vector models are derived from Ahmad Hashemi's medium article. To get a more intuition on the process, I laid out the steps in forms of vector operations.
 
