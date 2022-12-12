@@ -26,6 +26,8 @@ So the probability of obtaining the measured differences between reboot and orig
 
 So the audience has more negative sentiment by reboot films due to the feminism woke culture in films. This occurs primarily as the audience have been familiar with the films initially cast with male led casts.
 
+Improvement: One huge issue with the data collection is that movies such as Birds of Prey or Mulan consists of most of the reviews which shadows over the movie reviews from other films. To tackle this, the reviews need to be equally sampled from each movie.
+
 Unfortunately Hollywood will not stop such a business model as regardless it still makes them money, the best way to push feminism forward is to bring about orginal story films with female led cast resulting in less backlash and a fresh new film for the people to enjoy.
 
 PROJECT FILE: IMDB Movie Sentiment Analysis.ipynb
